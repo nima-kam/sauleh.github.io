@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "سیّد صالح اعتمادی"
+title                    : "نیما کمبرانی"
 title_separator          : "-"
-name                     : "Sauleh"
+name                     : "Nima"
 description              : "Welcome to my web site."
 url                      : #http://webpages.iust.ac.ir # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #/sauleh # the subpath of your site, e.g. "/blog"
+baseurl                  : #/Nima # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : sauleh # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : Nima # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : Nimakambarani
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sauleh Eetemadi"
+  name             : "Nima Kambarani"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
+  bio              : I'm student in iust university. I do karate. I like cycling, hiking, swimming and any other sports.a   
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : Nimakambarani007@gmail.com
   twitter: sauleh_e
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: Nima-kam
+  instagram: Nimakambarani
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
